@@ -1,0 +1,324 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 320px) and (max-width: 575px) 
+{
+	.navbar-brand img{
+		width: 170px
+	}
+	header .banner-text {
+		padding: 50px 0;
+	}
+	header .banner-text .banner-single-text {
+		margin-left: 0px;
+		text-align: center;
+	}
+	header .banner-text .banner-single-text h2 {
+		font-size: 26px;
+	}
+	header .banner-text .banner-single-text h1 {
+		font-size: 30px;
+	}
+	header .banner-text .banner-single-text p{
+		color: #f2b500;
+	}
+	header{
+		height: auto;
+	}
+	p{
+		font-size: 14px;
+	}
+	.knowledge {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	.knowledge .know-img {
+		margin-left: 0px;
+	}
+	.know-text {
+		text-align: center;
+		margin-top: 20px;
+	}
+	.knowledge .know-text h2, .client .hadding h2, .video-section .video-text h2, .our-work .single-work .work-text h2, .our-work .work-box .hadding h2, .form-section .main-form-section h2, .training .choose-box .choose-text h2, .training .training-box .training-text h2, footer .footer-hadding h2 {
+		font-size: 22px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.knowledge .know-text h3, .client .hadding h3, .video-section .video-text h3, .our-work .single-work .work-text h3, .our-work .work-box .hadding h3, .form-section .main-form-section h3, .training .choose-box .choose-text h3, .training .training-box .training-text h3, footer .footer-hadding h3 {
+		font-size: 20px;
+	}
+	header .banner-text .banner-single-text .common-btn, .knowledge .know-text .common-btn, .client .common-btn, .video-section .video-text .common-btn, .our-work .single-work .work-text .common-btn, .training .choose-box .choose-text .common-btn, .training .training-box .training-text .common-btn {
+		padding: 10px 30px;
+		font-size: 14px;
+	}
+	.knowledge .know-img-2 {
+		margin-right: 0px;
+		margin-top: 20px;
+	}
+	.client {
+		padding: 50px 0;
+	}
+	.client .single-client .client-text {
+		padding-left: 0px;
+		text-align: center;
+		margin-bottom: 60px;
+	}
+	.client-text {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.client-text ul{
+		justify-content: center;
+	}
+	.client-img {
+		text-align: center;
+	}
+	.mb-60 {
+		margin-bottom: 0px;
+	}
+	.client .single-client.single-client-2 .client-text {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.video-section {
+		padding: 50px 0;
+	}
+	.video-text {
+		text-align: center;
+		margin-top: 30px;
+	}
+	.our-work {
+		padding: 50px 0;
+		text-align: center;
+	}
+	.our-work .single-work .work-img {
+		margin-right: 0;
+		margin-top: 30px;
+	}
+	.our-work .work-box {
+		padding: 80px 0;
+	}
+	.our-work .work-box .work-list-box .single-list-work {
+		padding: 35px 35px;
+	}
+	.our-work .single-work .work-img-2 {
+		margin-right: 0px;
+		margin-left: 0px;
+		margin-bottom: 30px;
+	}
+	.form-section{
+		padding: 40px 15px;
+	}
+	.form-section .main-form-section .form-group button{
+		padding: 17px 5px;
+		font-size: 14px;
+	}
+	.form-section .main-form-section .form-group input{
+		padding: 27px;
+		font-size: 10px;
+	}
+	.training{
+		padding: 50px 0;
+	}
+	.training .choose-box .choose-img {
+		margin-left: 0px;
+		margin-bottom: 30px;
+	}
+	.choose-text {
+		text-align: center;
+	}
+	.training .choose-box {
+		margin-bottom: 100px;
+	}
+	footer{
+		height: auto;
+	}
+	footer .footer-hadding ul {
+		/*-- justify-content: end !important; --*/
+	}
+	footer .footer-hadding .input-group button {
+		padding: 10px 20px;
+	}
+	.copy-rid-section p{
+		font-size: 12px;
+	}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 576px) and (max-width: 767px) 
+{
+	.navbar-brand img{
+		width: 170px
+	}
+	header .banner-text {
+		padding: 80px 0;
+	}
+	header .banner-text .banner-single-text {
+		margin-left: 0px;
+		text-align: center;
+	}
+	header .banner-text .banner-single-text h2 {
+		font-size: 40px;
+	}
+	header .banner-text .banner-single-text h1 {
+		font-size: 46px;
+	}
+	header .banner-text .banner-single-text p{
+		color: #f2b500;
+	}
+	header{
+		height: auto;
+	}
+	p{
+		font-size: 16px;
+	}
+	header .banner-text .banner-single-text .common-btn, .knowledge .know-text .common-btn, .client .common-btn, .video-section .video-text .common-btn, .our-work .single-work .work-text .common-btn, .training .choose-box .choose-text .common-btn, .training .training-box .training-text .common-btn{
+		padding: 15px 40px;
+		font-size: 16px;
+	}
+	.knowledge{
+		padding: 100px 0;
+	}
+	.knowledge .know-img {
+		margin-left: 0px;
+		margin-bottom: 30px;
+	}
+	.knowledge .know-text h2, .client .hadding h2, .video-section .video-text h2, .our-work .single-work .work-text h2, .our-work .work-box .hadding h2, .form-section .main-form-section h2, .training .choose-box .choose-text h2, .training .training-box .training-text h2, footer .footer-hadding h2{
+		font-size: 32px;
+	}
+	.know-text {
+		text-align: center;
+	}
+	.knowledge .know-img-2 {
+		margin-right: 0px;
+		margin-top: 30px;
+	}
+	.client {
+		padding: 100px 0;
+	}
+	.client .single-client .client-text {
+		padding-left: 0px;
+		text-align: center;
+		margin-bottom: 60px;
+	}
+	.client-text {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.client-text ul{
+		justify-content: center;
+	}
+	.client-img {
+		text-align: center;
+	}
+	.mb-60 {
+		margin-bottom: 0px;
+	}
+	.client .single-client.single-client-2 .client-text {
+		padding-right: 0px;
+		padding-left: 0;
+	}
+	.video-text {
+		text-align: center;
+		margin-top: 30px;
+	}
+	.our-work {
+		padding: 100px 0;
+		text-align: center;
+	}
+	.our-work .single-work .work-img {
+		margin-right: 0;
+		margin-top: 30px;
+	}
+	.our-work .work-box {
+		padding: 80px 0;
+	}
+	.our-work .work-box .work-list-box .single-list-work {
+		padding: 35px 35px;
+	}
+	.our-work .single-work .work-img-2 {
+		margin-right: 0px;
+		margin-left: 0px;
+		margin-bottom: 30px;
+	}
+	.form-section .main-form-section .form-group button{
+		padding: 17px 18px;
+	}
+	.training{
+		padding: 100px 0;
+	}
+	.training .choose-box .choose-img {
+		margin-left: 0px;
+		margin-bottom: 30px;
+	}
+	.choose-text {
+		text-align: center;
+	}
+	footer{
+		height: auto;
+	}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width: 991px) 
+{
+	header .banner-text {
+		padding: 100px 0;
+	}
+	header .banner-text .banner-single-text h1 {
+		font-size: 66px;
+	}
+	header .banner-text .banner-single-text .common-btn, .knowledge .know-text .common-btn, .client .common-btn, .video-section .video-text .common-btn, .our-work .single-work .work-text .common-btn, .training .choose-box .choose-text .common-btn, .training .training-box .training-text .common-btn{
+		padding: 15px 40px;
+	}
+	header{
+		height: auto;
+	}
+	header .banner-text .banner-single-text p{
+		color: #f2b500;
+	}
+	.knowledge{
+		padding: 120px 0;
+	}
+	.knowledge .know-text h2, .client .hadding h2, .video-section .video-text h2, .our-work .single-work .work-text h2, .our-work .work-box .hadding h2, .form-section .main-form-section h2, .training .choose-box .choose-text h2, .training .training-box .training-text h2, footer .footer-hadding h2 {
+		font-weight: 700;
+		font-size: 32px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	.client{
+		padding: 120px 0;
+	}
+	.video-text{
+		text-align: center;
+		margin-top: 30px;
+	}
+	.our-work{
+		padding: 120px 0;
+	}
+	.our-work .work-box .work-list-box .single-list-work {
+		padding: 40px 100px;
+	}
+	.training{
+		padding: 120px 0;
+	}
+	footer{
+		height: auto;
+	}
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) and (max-width: 1199px) 
+{
+	.knowledge .know-text h2, .client .hadding h2, .video-section .video-text h2, .our-work .single-work .work-text h2, .our-work .work-box .hadding h2, .form-section .main-form-section h2, .training .choose-box .choose-text h2, .training .training-box .training-text h2, footer .footer-hadding h2{
+		font-size: 42px;
+	}
+	header .banner-text{
+		padding: 200px 0;
+	}
+	header{
+		height: auto;
+	}
+	header .banner-text .banner-single-text .common-btn, .knowledge .know-text .common-btn, .client .common-btn, .video-section .video-text .common-btn, .our-work .single-work .work-text .common-btn, .training .choose-box .choose-text .common-btn, .training .training-box .training-text .common-btn{
+		padding: 15px 40px;
+	}
+
+}
